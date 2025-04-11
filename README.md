@@ -25,7 +25,7 @@
 ## 💬 Contact
 
 - 📬 GitHub: [@mednick-sys](https://github.com/mednick-sys)
-- 📧 Email: *(pode adicionar se quiser)*
+- 📧 Email: gabrielbcoxev[at]gmail.com
 - 🛰️ Status: compiling... uploading... hacking...
 
 ---
