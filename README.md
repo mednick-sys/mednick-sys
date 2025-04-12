@@ -35,8 +35,8 @@
 
 <h3>Github Stats</h3>
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
@@ -47,10 +47,11 @@
 </div>
 
 <h3>Languages I Speak</h3>
-<div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: inline_block">
+  <img align="center" alt="Brazilian Portuguese" title="Português (Brasil)" height="30" width="45" src="https://cdn-icons-png.flaticon.com/512/197/197386.png">
+  <img align="center" alt="English" title="English" height="30" width="45" src="https://cdn-icons-png.flaticon.com/512/197/197484.png">
 </div>
+
 
 <h3>Currently Studying</h3>
 <div>
