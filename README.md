@@ -1,66 +1,75 @@
-<img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif">
+<p align="center">
+  <img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif" width="500"/>
+</p>
 
 ## 💻 Skills
 
-- **Languages:** 
-  - 🖥️ C#, Python, JS, Bash, C, C++
-- **Operating Systems:** 
-  - 🐧 Arch Linux, Windows
-- **Web Development:** 
-  - 🌐 ASP.NET Core MVC, Node.js
-- **Other:** 
-  - ⚙️ Backend Development, Pentesting
+- **Languages:** C#, Python, JS, Bash, C, C++
+- **Operating Systems:** Arch Linux, Windows
+- **Web Development:** ASP.NET Core MVC, Node.js
+- **Other:** Backend Development, Pentesting
 
-<div style="display: inline_block">
-    <img align="center" alt="Mednick-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Mednick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Mednick-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-    <img align="center" alt="Mednick-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Mednick-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-    <img align="center" alt="Mednick-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Mednick-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Mednick-Post" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+<div align="center" style="display: inline_block"><br>
+  <img alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
 </div>
 
-## 🚀 Projects & Achievements SOON
+---
 
-- **pwnroot:** Pós-exploração via HTTP.
-- **pi-toolkit:** Automação física com Raspberry Pi.
-- **automations:** Scripts de ponto, SDR 433MHz e mais...
+## 🚀 Projects & Achievements
+
+- 🔥 **pwnroot**: Pós-exploração via HTTP.
+- 🧰 **pi-toolkit**: Automação física com Raspberry Pi.
+- 🤖 **automations**: Scripts de ponto, SDR 433MHz e mais...
+
+---
 
 ## 📬 Contact
 
-- 📧 **Email:** gabrielbcoxev@gmail.com
-- 🌐 **GitHub:** [github.com/mednick-sys](https://github.com/mednick-sys)
-
-<h3>Github Stats</h3>
-<div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+  <a href="mailto:gabrielbcoxev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/5547999783190" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </div>
 
+---
 
-<h3>Contact</h3>
-<div>
-  <a href="mailto:gabrielbcoxev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5547999783190" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+## 📊 Github Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<h3>Languages I Speak</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Brazilian Portuguese" title="Português (Brasil)" height="30" width="45" src="https://cdn-icons-png.flaticon.com/512/197/197386.png">
-  <img align="center" alt="English" title="English" height="30" width="45" src="https://cdn-icons-png.flaticon.com/512/197/197484.png">
+---
+
+## 🌍 Languages I Speak
+
+<div align="center">
+  <img alt="Portuguese" title="Português (Brasil)" height="30" src="https://cdn-icons-png.flaticon.com/512/197/197386.png"/>
+  <img alt="English" title="English" height="30" src="https://cdn-icons-png.flaticon.com/512/197/197484.png"/>
 </div>
 
+---
 
-<h3>Currently Studying</h3>
-<div>
-  <div style="display: inline_block">
-     <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Hacking" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">
-    <img align="center" alt="Network" height="30" src="https://cdn-icons-png.flaticon.com/512/1011/1011863.png">
-    <img align="center" alt="Mednick-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  </div>
+## 📚 Currently Studying
+
+<div align="center" style="display: inline_block">
+  <img alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img alt="Kali Linux" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"/>
+  <img alt="Networking" height="30" src="https://cdn-icons-png.flaticon.com/512/1011/1011863.png"/>
+  <img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 </div>
 
-> "There is only one way to avoid criticism: do nothing, say nothing, and be nothing." (Aristotle)
+---
+
+> _"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."_ — **Aristotle**
