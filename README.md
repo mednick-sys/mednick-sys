@@ -1,71 +1,70 @@
-<h1 align="center">🧠 Mednick | Full Stack Dev • Backend • Hacker Ético</h1>
+![Linux](https://github.com/mednick-sys/mednick-sys/blob/main/this_is.gif)
+## 💻 Skills
 
-<p align="center">C# • ASP.NET Core MVC • Linux • Pentest • Automação • Web Dev</p>
+- **Languages:** 
+  - 🖥️ C#, Python, JS, Bash, C, C++
+- **Operating Systems:** 
+  - 🐧 Arch Linux, Windows
+- **Web Development:** 
+  - 🌐 ASP.NET Core MVC, Node.js
+- **Other:** 
+  - ⚙️ Backend Development, Pentesting
 
----
+<div style="display: inline_block">
+    <img align="center" alt="Mednick-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Mednick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Mednick-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img align="center" alt="Mednick-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Mednick-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+    <img align="center" alt="Mednick-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Mednick-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Mednick-Post" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+</div>
 
-## 👤 About Me
+## 🚀 Projects & Achievements
 
-- 👨🏻‍💻 Currently building tools focused on backend development & offensive security  
-- 🐧 Daily driver: Arch Linux with custom dev environment  
-- 🔍 Fascinated by networks, automation, and ethical hacking  
-- 🌎 From Santa Catarina, Brazil  
-- 🧠 Always learning something new about code, systems, or exploits
+- **pwnroot:** Pós-exploração via HTTP.
+- **pi-toolkit:** Automação física com Raspberry Pi.
+- **automations:** Scripts de ponto, SDR 433MHz e mais...
 
----
+## 🏆 Achievements
 
-## 🚀 GitHub Stats
+- Rooted machines on HackTheBox.
+- **ROOTKIT-USERLAND:** Rootkit Userland project in progress...
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=tokyonight" alt="mednick stats" />
-</p>
+## 📬 Contact
 
----
+- 📧 **Email:** gabrielbcoxev@gmail.com
+- 🌐 **GitHub:** [github.com/mednick-sys](https://github.com/mednick-sys)
 
-## 💬 Contact
+<h3>Github Stats</h3>
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-- 📬 GitHub: [@mednick-sys](https://github.com/mednick-sys)
-- 📧 Email: gabrielbcoxev[at]gmail.com
-- 🛰️ Status: compiling... uploading... hacking...
+<h3>Contact</h3>
+<div>
+  <a href="mailto:gabrielbcoxev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielbcoxev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5547999783190" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/mednicksys" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/mednicksys" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
 
----
+<h3>Languages I Speak</h3>
+<div>
+  <img align="center" alt="Brazil" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png">
+  <img align="center" alt="USA" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png">
+</div>
 
-## 🛠️ Skills
+<h3>Currently Studying</h3>
+<div>
+  <div style="display: inline_block">
+    <img align="center" alt="Mednick-PHP" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+    <img align="center" alt="Mednick-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+    <img align="center" alt="Mednick-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🌍 Languages I Speak
-
-<p align="center">
-  🇧🇷 Portuguese (Native) &nbsp;&nbsp;•&nbsp;&nbsp; 🇺🇸 English (Technical/Intermediate)
-</p>
-
----
-
-## 📚 Currently Studying
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pentest-%23000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTL--SDR-%23333333?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
----
-
-## 🧪 Featured Projects (In Progress)
-
-- 🛰
+> "There is only one way to avoid criticism: do nothing, say nothing, and be nothing." (Aristotle)
