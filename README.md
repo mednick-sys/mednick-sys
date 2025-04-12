@@ -18,7 +18,7 @@
   <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
 </div>
 
----
+
 
 ## 🚀 Projects & Achievements
 
@@ -26,7 +26,7 @@
 - 🧰 **pi-toolkit**: Automação física com Raspberry Pi.
 - 🤖 **automations**: Scripts de ponto, SDR 433MHz e mais...
 
----
+
 
 ## 📬 Contact
 
@@ -39,7 +39,7 @@
   </a>
 </div>
 
----
+
 
 ## 📊 Github Stats
 
@@ -48,7 +48,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
----
+
 
 ## 🌍 Languages I Speak
 
@@ -57,7 +57,7 @@
   <img alt="English" title="English" height="30" src="https://cdn-icons-png.flaticon.com/512/197/197484.png"/>
 </div>
 
----
+
 
 ## 📚 Currently Studying
 
@@ -68,6 +68,6 @@
   <img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 </div>
 
----
+
 
 > _"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."_ — **Aristotle**
