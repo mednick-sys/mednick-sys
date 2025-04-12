@@ -1,4 +1,4 @@
-<img src="https://github.com/mednick-sys/mednick-sys/blob/main/this_is.gif" width="500">
+<img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif">
 ## 💻 Skills
 
 - **Languages:** 
