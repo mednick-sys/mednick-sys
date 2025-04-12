@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif" width="500"/>
-</p>
-
+<img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif" width="500"/>
 ## 💻 Skills
 
 - **Languages:** C#, Python, JS, Bash, C, C++
