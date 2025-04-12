@@ -48,15 +48,16 @@
 
 <h3>Languages I Speak</h3>
 <div>
-  <img align="center" alt="Brazil" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png">
-  <img align="center" alt="USA" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <h3>Currently Studying</h3>
 <div>
   <div style="display: inline_block">
-    <img align="center" alt="Mednick-PHP" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-    <img align="center" alt="Mednick-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+     <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Hacking" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">
+    <img align="center" alt="Network" height="30" src="https://cdn-icons-png.flaticon.com/512/1011/1011863.png">
     <img align="center" alt="Mednick-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   </div>
 </div>
