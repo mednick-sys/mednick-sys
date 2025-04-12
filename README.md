@@ -21,16 +21,11 @@
     <img align="center" alt="Mednick-Post" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
-## 🚀 Projects & Achievements
+## 🚀 Projects & Achievements SOON
 
 - **pwnroot:** Pós-exploração via HTTP.
 - **pi-toolkit:** Automação física com Raspberry Pi.
 - **automations:** Scripts de ponto, SDR 433MHz e mais...
-
-## 🏆 Achievements
-
-- Rooted machines on HackTheBox.
-- **ROOTKIT-USERLAND:** Rootkit Userland project in progress...
 
 ## 📬 Contact
 
@@ -46,10 +41,7 @@
 <h3>Contact</h3>
 <div>
   <a href="mailto:gabrielbcoxev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielbcoxev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5547999783190" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/mednicksys" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/mednicksys" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 <h3>Languages I Speak</h3>
