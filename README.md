@@ -1,4 +1,3 @@
-
   <img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif" />
 
 ## 💻 Skills
