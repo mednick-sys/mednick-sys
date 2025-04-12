@@ -1,4 +1,4 @@
-![Linux](https://github.com/mednick-sys/mednick-sys/blob/main/this_is.gif)
+<img src="https://github.com/mednick-sys/mednick-sys/blob/main/this_is.gif" width="500">
 ## 💻 Skills
 
 - **Languages:** 
@@ -34,9 +34,10 @@
 
 <h3>Github Stats</h3>
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
 
 <h3>Contact</h3>
 <div>
