@@ -1,4 +1,6 @@
-<img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif" width="500"/>
+
+  <img src="https://github.com/mednick-sys/mednick-sys/blob/main/shell_me.gif" />
+
 ## 💻 Skills
 
 - **Languages:** C#, Python, JS, Bash, C, C++
@@ -6,7 +8,7 @@
 - **Web Development:** ASP.NET Core MVC, Node.js
 - **Other:** Backend Development, Pentesting
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -29,7 +31,7 @@
 
 ## 📬 Contact
 
-<div align="center">
+<div>
   <a href="mailto:gabrielbcoxev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -42,7 +44,7 @@
 
 ## 📊 Github Stats
 
-<div align="center">
+<div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mednick-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednick-sys&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -51,7 +53,7 @@
 
 ## 🌍 Languages I Speak
 
-<div align="center">
+<div>
   <img alt="Portuguese" title="Português (Brasil)" height="30" src="https://cdn-icons-png.flaticon.com/512/197/197386.png"/>
   <img alt="English" title="English" height="30" src="https://cdn-icons-png.flaticon.com/512/197/197484.png"/>
 </div>
@@ -60,7 +62,7 @@
 
 ## 📚 Currently Studying
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <img alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img alt="Kali Linux" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"/>
   <img alt="Networking" height="30" src="https://cdn-icons-png.flaticon.com/512/1011/1011863.png"/>
